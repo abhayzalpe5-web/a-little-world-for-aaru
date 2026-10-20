@@ -1,5 +1,11 @@
 # A Little World for Aaru ❤️
 
+[![Live Website](https://img.shields.io/badge/Live%20Website-Visit%20Aaru's%20World-ff69b4?style=for-the-badge&logo=github)](https://abhayzalpe5-web.github.io/a-little-world-for-aaru/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-success?style=for-the-badge)](https://abhayzalpe5-web.github.io/a-little-world-for-aaru/)
+
+> **Live Website URL**: **[https://abhayzalpe5-web.github.io/a-little-world-for-aaru/](https://abhayzalpe5-web.github.io/a-little-world-for-aaru/)**  
+> **GitHub Repository**: **[https://github.com/abhayzalpe5-web/a-little-world-for-aaru](https://github.com/abhayzalpe5-web/a-little-world-for-aaru)**
+
 A dreamy, romantic, premium digital birthday scrapbook created with love for **Arpita** (affectionately called **Aaru**).
 
 Built entirely with React, Vite, and custom CSS/SVG illustrations. **Zero photographs of people** are used—every page, letter, card, and animation is handcrafted using romantic paper textures, washi tape, wax seals, stamps, flowers, hearts, stars, ribbons, and sweet doodles.
